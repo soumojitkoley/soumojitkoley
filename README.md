@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I’m Soumojit Koley</h1>
 <h3 align="center">A passionate software engineer who turns ideas into reality through code</h3>
 <br>
-<img align="right" alt="Coding" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" height="300" width="490" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 Currently Studing as a **4th Year Student of ECE stream**
 
